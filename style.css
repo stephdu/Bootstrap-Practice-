@@ -1,0 +1,45 @@
+img {
+  display: flex;
+  justify-content: center;
+}
+p {
+display: flex;
+text-align: center;
+  margin: 50px;
+}
+#aboutmemain {
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+i {
+  display: none;
+  justify-content: space-around;
+  margin: 25px;
+}
+
+p {
+  display:flex;
+  justify-content: center;
+  color: pink;
+}
+#aboutmemain {
+  justify-content: center;
+  margin: 0,auto;
+}
+#aboutmecontainer {
+  margin: 0, auto;
+  align-items: center;
+}
+#aboutmecontainer > img {
+  justify-content: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  align: center;
+}
